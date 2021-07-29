@@ -1,0 +1,19 @@
+/*  Write css code to style index.html file 
+    Develop by vaishnavi kadukar */
+
+#input1{
+    height:40px;
+    width:400px;
+    margin-top: 20px;
+    border-radius: 5px 15px;
+ 
+    
+}
+ #input1:hover{
+    width:1000px; 
+    
+}
+
+a:hover{
+    text-decoration: none;
+}

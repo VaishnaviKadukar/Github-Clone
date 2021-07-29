@@ -1,0 +1,28 @@
+/*  Write css code to style index.html file 
+    Develop by vaishnavi kadukar */
+
+  /* for button*/
+#btn1{
+ color:rgb(7, 7, 7);
+ text-decoration: none;
+ color:white;
+ background-color: rgb(0, 0, 0); 
+ height:40px;
+ width:250px;
+ border: none;
+}
+
+#btn1:hover{
+ background-color:rgb(17, 16, 16);
+ border:none;
+}
+
+/*for marker tag*/
+mark:hover{
+ font-size: larger;
+}
+
+#div2{
+  opacity: 80;
+}
+
